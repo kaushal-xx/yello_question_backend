@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nimmio-dev",
+  "private_key_id": "a73ab12ac03ea448f2f30960cd95a80bbd652d91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCGVpXf1MVnGMpo\nBMr8ikfqOWXSjfkoYqiN3gn30AyFDD2U2lpllasesrjFtgSKlD+SEav78W+6kDWW\n47Mdd3nHVVcS7dt9R7BJftZdjXrWk3a9fKJGG6AzIU83ceUQw9knwwcewG/igBaj\nov0GuJPEf9M/UP+8ltitk7H7nVdLI+RaNj/+K7sG1M1rfK1Cki1RDzzn5xs2ir3M\ndoQKDwnRKrG1wFla671pDk2yw1UiMEL6oKQTePYSM+QZcIRSFXpfG8JgKQ9CIadk\nqeF3AFTKwq32/q1WUf8AIi9RZhq5Qz3t7ffNQU4SC0IfPJit93tWt8R/JjranbsJ\nmdjQv4IrAgMBAAECggEAIj+Izhush/AmCgbOyTtnwisH7noLf2RHnINy/x6nUnQg\nbwaL7UIO8jCWMrGIztukqVSgCAcxeNqzDtjWHTkMbuku3cCOKI5SPyp69DbRjkri\nBsTzifQZD2/6hiQfRfroLd7mvcxJufD11JoE7+W2pm4AKTA5Qpcifn4c7gza6GjL\ni+5ejjlsoviUnVm2PenadOXdf30+ARG9rlJKMMtGiKHufnPm5FkE0Jtp9wZokUOY\nvd+RjHNUWNZG6XCINvn1Fhf/gvxrjniG7fPQfY9azGn9ZHjkIkCR3HUXoUf7yVrD\nsKtTDFU8SQ5LuYjbQSzluJ8X5B8cQMPS6x65rzinYQKBgQC6N6t2P/bEQ6FzAtzU\nqFgBac/oXOOKNhfSfjYy6ggY6fSrzFmpnzgkpQvl59Y0wUAGNuquSxygZKdHakm4\nqnrIKtvKLjwFd6yjoSVJXTcdXzRD64jE0MY0J1PaNN7uhoLrBs8b9rSmc8PBDJ75\nmJxJOMZKDi8QKQTfn8N5RAyg/wKBgQC4rgEY21GqBhvDfO+1609PaH+1DQZsj67R\nEs1k37ap/o38GYlqiQSKVoumsrY3+sTQkZKLYupjV7SywJDcFmE0/e6doH2T48SL\nijufvZx4gvTMfzLZlJy0xHlyfknOl0kp+JpMD8m/2myxrTyHdNcyxJKoa1eg2+J4\nBT0UYXRy1QKBgDbj7gC/PggAP3jdYSa2MKrJ++TsbI3y//amCWfcoGJnpB138P4U\n1sHGfMlaG0QVqr+qNGcH8Po+cSiV5gEvD14tc/gWxM5/xj29ZHZJqdNYmtlidkA9\nog8BgLATYZtBvxl0OlxtzjY6bXtcMwgzue3DdH+jyq+ix7L7Lu1x558VAoGABAND\n4tZhH+CiGc1NKBbE0mTi4Xw294Tnt4NBE0AJKAhv7Vpgsf/oKVlYD3cynmTEggOn\nu3+auC3fr0Kf4yhZVF1wIdyq3dvFGYMXaJEmJTgzOX5KDJA+F29tdB9qWyLOZCsS\nrzRondKRKgsplYfkZSYASciLTuN4OENk4Fx9u0ECgYB4gzEJcz7RRQGi5CG9pCA9\nEPjZ+kzUn4OvZi40dAQkzyOOD4+M1VI3Y8d+fe5j2yjg4PXerNAqe91hU625ABAO\nbo6RJpwPPTQioSrkPS9r/HVJ2MsrjEAM/4GtfvKGdbFptXh+tS5BmODZhXNW3mVU\npEgIByIftxIDGMEjwToNCA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-video-intelligence@nimmio-dev.iam.gserviceaccount.com",
+  "client_id": "108110756144655657136",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-video-intelligence%40nimmio-dev.iam.gserviceaccount.com"
+}

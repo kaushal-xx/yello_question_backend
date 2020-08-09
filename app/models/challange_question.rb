@@ -1,0 +1,2 @@
+class ChallangeQuestion < ApplicationRecord
+end
