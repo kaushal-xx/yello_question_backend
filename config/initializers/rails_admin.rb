@@ -74,12 +74,13 @@ RailsAdmin.config do |config|
     end
   end
 
-  config.model 'UserRedeemActivity' do
+  config.model 'Account' do
     list do
       field :id
       field :email
       field :phone
       field :status
+      field :total_redeem
       field :created_by
       field :modified_by
       field :app_version
