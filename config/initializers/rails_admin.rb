@@ -59,4 +59,37 @@ RailsAdmin.config do |config|
       field :hash_id
     end
   end
+  config.model 'UserRedeemActivity' do
+    list do
+      field :id
+      field :email
+      field :account_id
+      field :redeem_item_id
+      field :redeem_points
+      field :creation_time
+    end
+    show do
+      include_all_fields
+      field :email
+    end
+  end
+
+  config.model 'UserRedeemActivity' do
+    list do
+      field :id
+      field :email
+      field :phone
+      field :status
+      field :created_by
+      field :modified_by
+      field :app_version
+      field :app_type
+      field :modification_time
+      field :creation_time
+    end
+    show do
+      include_all_fields
+      field :total_redeem
+    end
+  end
 end
